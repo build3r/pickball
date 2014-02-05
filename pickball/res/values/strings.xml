@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pick Ball</string>
+    <string name="game_history">Last Game History</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Pick Ball</string>
+    <string name="btn_text">Start</string>
+    <string name="tv_text_ls">Result Scale</string>
+    <string name="edit_message">Enter any 7 char string</string>
+    <string name="title_activity_view_game_history">Last Game History</string>
+    <string name="title_activity_veiw_game_help">Veiw Game Help</string>
+</resources>
